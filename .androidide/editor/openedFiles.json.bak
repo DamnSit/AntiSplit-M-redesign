@@ -1,0 +1,21 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/CodeOnTheGoProjects/AntiSplit-M-redesign/build.gradle.kts",
+      "selection": {
+        "end": {
+          "column": 1,
+          "index": 141,
+          "line": 3
+        },
+        "start": {
+          "column": 1,
+          "index": 141,
+          "line": 3
+        }
+      }
+    }
+  ],
+  "projectPath": "/storage/emulated/0/CodeOnTheGoProjects/AntiSplit-M-redesign",
+  "selectedFile": "/storage/emulated/0/CodeOnTheGoProjects/AntiSplit-M-redesign/build.gradle.kts"
+}
