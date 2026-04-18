@@ -186,7 +186,11 @@
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
+<<<<<<< HEAD
    Copyright (C) 2022 github.com/REAndroid
+=======
+   Copyright [yyyy] [name of copyright owner]
+>>>>>>> 86b7eb61cc2d6e76ccfdc6ebf99d1801a793a149
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
